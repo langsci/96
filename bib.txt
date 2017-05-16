@@ -1,0 +1,280 @@
+
+Bally, Charles. 1944.\textit{ Linguistique générale et linguistique française}. 2nd edition. Berne: Francke.
+
+Bickel, Balthasar, Kristine Hildebrandt \& René Schiering. 2009. The distribution of phonological word domains: a probabilistic typology. In Janet Grijzenhout \& Baris Kabak (eds), \textit{Phonological domains: universals and deviations}, 47-75. Berlin: Mouton de Gruyter.
+
+Bickel, Balthasar \& Johanna Nichols. 2016. Autotyp. \url{http://www.autotyp.uzh.ch/}
+
+Bromberger, Sylvain \& Morris \citet{Halle1989}. Why phonology is different. \textit{Linguistic Inquiry} 20:51-70.
+
+Byrne, James. 1885. \textit{General Principles of the Structure of Language}. London: Trübner. 2nd edition, 1892.
+
+Cinque, Guglielmo. 1993. A null theory of phrase and compound stress. \textit{Linguistic Inquiry} 24.239-294.
+
+Clements, G. N. 1990. The role of the sonority cycle in core syllabification. In John Kingston and Mary E. Beckman (eds), \textit{Papers in Laboratory Phonology I: Between the grammar and physics of speech}, 283-333. CUP.
+
+Clements, G. N. and Sylvester Osu. 2005. Nasal harmony in Ikwere, a language with no phonemic nasal consonants. \textit{Journal of African Languages and Linguistics }26.165-200.
+
+Cohn, Abigail. 1993. A survey of the phonology of the feature [+nasal]. \textit{Working Papers of the Cornell Phonetics Laboratory} 8.141-203. Ithaca: Cornell University.
+
+Crane, Thera Marie, Larry M. Hyman, \& Simon Nsielanga Tukumu. 2011. \textit{A grammar of Nzadi [B865]}. University of California Publications in Linguistics 147. University of California Press.
+
+Crowley, Terry. 2002. \textit{Serial verbs in Oceanic: A descriptive typology}. Oxford University Press.
+
+Dingemanse, Mark, Damián E. Blasi, Gary Lupyan, Morten H. Christiansen \& Padraic Monoghan. 2015. Arbitrariness, iconicity and systematicity in language. \textit{Trends in Cognitive Sciences} 19.603-615.
+
+Dryer, Matthew \& Martin Haspelmath. 2013. The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. wals.info
+
+Dumestre, G. 1970. \textit{Atlas linguistique de Côte d’Ivoire}. Abidjan: Institut de Linguistique Appliquée XI, Université d’Abidjan.
+
+Foley, William \& Mike Olson. 1985. Clausehood and verb serialization. In Johanna Nichols and Anthony C. Woodbury (eds), \textit{Grammar inside and outside the claus}e, 17-60. Cambridge: Cambridge University Press.
+
+Fullwood, Michelle A. 2014. Asymmetric correlations between English verb transitivity and stress. Proceedings of the 40th Annual Meeting of the Berkeley Linguistic Society, 125-138.
+
+Gabelentz, Georg van der. 1901. \textit{Die Sprachwissenschaft: Ihre Aufgaben, Methoden und bisherigen Ergebnisse}. 2nd edition. Leipzig: Tauchnitz.
+
+Greenberg, Joseph H. 1962. Is the vowel-consonant dichotomy universal? Word 18.73-81. 
+
+Greenberg, Joseph H. 1963. Vowel harmony in African languages. Actes du Second Colloque Internationale de Linguistique Negro-Africaine, 33-38. Dakar: Université de Dakar, West African Languages Survey
+
+Greenberg, Joseph H. 1966. Synchronic and diachronic universals in phonology. Language. 42.508-17. 
+
+Greenberg, Joseph H. 1970. Some generalizations concerning glottalic consonants, especially implosives. \textit{International Journal of American Linguistics} 36.123-45.
+
+Greenberg, Joseph H. 1978a. Some generalizations concerning initial and final consonant clusters. \textit{Linguistics} 18.5-34.
+
+Greenberg, Joseph H. 1978b. Diachrony, synchrony and language universals. In Greenberg, Ferguson \& Moravcsik, vol. 1, 61-91. 
+
+Greenberg, Joseph H., James J. Jenkins \& Donald J. Foss. 1967. Phonological distinctive features as cues in learning. \textit{Journal of Experimental Psychology} 77.200-5. 
+
+Greenberg \& Dorothy Kashube. 1976. Word prosodic systems: A preliminary report. \textit{Working Papers in Language Universals} 20.1-18. Stanford University.
+
+Greenberg, Joseph H., Charles A. Ferguson \& Edith A. Moravcsik (eds.), \textit{Universals of human language}. 4 vols. Stanford University Press.
+
+Hockett, Charles F. (1963). The problem of universals in language. In \textit{Universals of language}, Joseph H. Greenberg (ed), 1-29. Cambridge, MA: MIT Press.
+
+Hyman, Larry M. 1977. The nature of linguistic stress. In Larry M. Hyman (ed.) \textit{Studies in stress and accent}, 37-83. Southern California Occasional Papers in Linguistics 4. Los Angeles: Department of Linguistics, University of Southern California. \url{http://gsil.sc-ling.org/pubs/SCOPILS_1_3_4/studies_in_stress_and_accent.pdf}
+
+Hyman, Larry M. 2004. How to become a Kwa verb. \textit{Journal of West African Languages} 30.69-88.
+
+Hyman, Larry M. 2007. Where’s phonology in typology? \textit{Linguistic Inquiry} 11.265-271.
+
+Hyman, Larry M. 2008. Universals in phonology. \textit{The Linguistic Review} 25.81-135.
+
+Kiparsky, Paul. To appear. Formal and empirical issues in phonological typology. To appear in Larry M. Hyman \& Frans Plank (eds), \textit{Phonological typology}.
+
+Lehmann, Winfred P. (1973). A structural principle of language and its implications. \textit{Language} 49.47-66.
+
+Maddieson, Ian and Kristin Precoda. 1990. Updating UPSID. \textit{UCLA Working Papers in Phonetics }74.104-111.
+
+Moravcsik, Edith. 2013. \textit{Introducing language typology}. Cambridge University Press.
+
+Nater, H. F. 1984. \textit{The Bella Coola language}. National Museum of Man Mercury Series. Canadian Ethnology Service Paper 92. Ottawa: National Museums of Canada.
+
+Nespor, Marina, Mohinish Shukla and Jacques Mehler. Stress-timed vs. Syllable-timed Languages. In Marc van Oostendorp, Colin J. Ewen, Elizabeth Hume and Keren Rice (eds), \textit{The Blackwell Companion to Phonology}. Blackwell Publishing. Blackwell Reference Online. 31 July 2012 http://www.companiontophonology.com/subscriber/tocnode?id=g9781405184236\_chunk\_g978140518423650
+
+Plank, Frans. 1998. The co-variation of phonology with morphology and syntax: A hopeful history.\textit{ Linguistic Typology} 2.195-230.
+
+Radioff, W. 1882. V\textit{ergleichende Grammatik der nördlichen Türksprachen}, Erster Theil: Phonetik der nördlichen Türksprachen. Leipzig: Weigel.
+
+Shaw, Patricia. 2002. On the edge: Obstruent clusters in Salish. \textit{Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA 7)}. University of British Columbia Working Papers in Linguistics 10.
+
+Skali\v{c}ka, Vladimir. 1979. \textit{Typologische Studien}. Braunschweig: Vieweg.
+
+Smith, Jennifer L. {\textquotedbl}Category-specific Effects.{\textquotedbl} In Marc van Oostendorp, Colin J. Ewen, Elizabeth Hume and Keren Rice (eds), T\textit{he Blackwell Companion to Phonology}. Blackwell Publishing, 2011. Blackwell Reference Online. 31 July 2012 http://www.companiontophonology.com/subscriber/tocnode?id=g9781405184236\_chunk\_g9781405184236104
+
+Song, Jae Jung (ed.). 2011. \textit{The Oxford handbook of linguistic typology}. Oxford University Press.
+
+Tokizaki, Hisao. 2010. Syllable structure, stress location and head-complement order. \textit{Phonological Studies} 13.135-136. The Phonological Society of Japan.
+
+Tokizaki, Hisao \& Yasutomo Kuwana. 2012. Limited consonant clusters in OV languages. In Phil Hoole et al (eds), \textit{Consonant clusters and structural complexity}, 71-91. Berlin: Mouton de Gruyter.
+
+Tucker, A. N. and J. tompo Ole Mpaayei. 1955. \textit{A Maasai Grammar with Vocabulary}. London: Longmans, Green and Company.
+
+Vajda, Edward. 2001. Test materials dated August 17, 2001. Posted at http://pandora.cii.wwu.edu/vajda/ling201/test2materials/Phonology3.htm.
+
+Whaley, Lindsay J. 1997. \textit{Introduction to Typology}. Thousand Oaks, Cal.: Sage.
+
+Childs, G. Tucker. 1994. African Ideophones. In \textit{Sound Symbolism}, ed by. Leanne Hinton, Johanna Nichols, and John J. Ohala, 178–204. Cambridge: Cambridge University Press.
+
+Croft, William. 2001. \textit{Radical Construction Grammar}. Oxford: Oxford University Press.
+
+Dingemanse, Mark. 2012. “Advances in the cross-linguistic study of ideophones.” \textit{Language and Linguistics Compass} 6 (10): 654–672. doi:10.1002/lnc3.361.
+
+Dingemanse, Mark, Francisco Torreira, and N. J. Enfield. 2013. “Is ‘\textit{Huh?}’ a universal word? Conversational infrastructure and the convergent evolution of linguistic items.” \textit{PLOS ONE} 8 (11): e78273. doi:10.1371/journal.pone.0078273.
+
+Haspelmath, Martin. 2010. “Comparative concepts and descriptive categories in crosslinguistic studies.” \textit{Language} 86 (3): 663–687.
+
+Joseph, Brian D. 1997. “On the linguistics of marginality: The centrality of the periphery.” \textit{Chicago Linguistic Society} 33: 197–213.
+
+Kunene, Daniel P. 1965. “The ideophone in Southern Sotho.” \textit{Journal of African Languages} 4: 19–39.
+
+Müller, Max. 1861. \textit{Lectures on the Science of Language}. Vol. 1. London: Longmans, Green.
+
+Newmeyer, Frederick J. 1992. “Iconicity and generative grammar.” \textit{Language} 68 (4): 756–796.
+
+Nuckolls, Janis B. 1996. \textit{Sounds Like Life: Sound-Symbolic Grammar, Performance, and Cognition in Pastaza Quechua}. New York: Oxford University Press.
+
+Schegloff, Emanuel A. 2007. \textit{Sequence Organization in Interaction: A Primer in Conversation Analysis}. Cambridge: Cambridge University Press.
+
+Selting, Margret, and Elizabeth Couper-Kuhlen, eds. 2001. \textit{Studies in Interactional Linguistics}. Amsterdam: John Benjamins.
+
+Wilkins, David P. 1992. “Interjections as deictics.” \textit{Journal of Pragmatics} 18 (2-3): 119–158.
+
+Wohlgemuth, Jan, and Michael Cysouw, eds. 2010. \textit{Rara \& rarissima: documenting the fringes of linguistic diversity}. Berlin; New York: De Gruyter Mouton.
+
+Arbib, Michael. 2012.  \textit{How the Brain Got Language: The Mirror System Hypothesis.}  Oxford: Oxford University Press.
+
+Armstrong, David F., Stokoe, William C., and Wilcox, Sherman E.  1995.  \textit{Gesture and the Nature of Language.  }Cambridge: Cambridge University Press.
+
+Aronoff , Mark, Meir, Irit, Padden, Carol, \& Sandler, Wendy. 2008. The roots of linguistic organization in a new language. In Holophrasis, Compositionality and Protolanguage, Special Issue of \textit{Interaction Studies}. Bickerton, Derek and Arbib, Michael (Eds.). 133-149.
+
+Aronoff, Mark, Meir, Irit, \& Sandler, Wendy 2005. The paradox of sign language morphology.  \textit{Language 2005. 81:2}, 301-344.
+
+Battison, Robbin. 1978.  \textit{Lexical Borrowing in American Sign Language.}  Silver Spring, MD: Linstok Press.
+
+Bernstein, Basil. 1971.  \textit{Class, Codes and Control, Volume 1.} London: Routledge and Kegan Paul.
+
+Bickerton, Derek. 1990. \textit{Language and Species. }Chicago: Chicago University Press.
+
+Bolhuis, Johan, Tattersal, Ian, Chomsky, Noam, Berwich, Robert.  2014. How could language have evolved?  \textit{PLOS Biology 12/8}: 1-7.
+
+Brentari, Diane. 1998.  \textit{A Prosodic Model of Sign Language Phonology}. Cambridge, MA: MIT Press.
+
+Brentari, Diane (Ed.). 2010.\textit{ Sign Languages: A Cambridge Survey. }Cambridge University Press, New York.
+
+Carstairs-McCarthy A. 1999. \textit{The Origins of Complex Language}. Oxford University Press, Oxford.
+
+Corballis, Michael C.  2002 \textit{From Hand to Mouth: The Origins of Language. }Princeton, NJ: Princeton University Press.
+
+Dachkovsky, Svetlana and Sandler, Wendy. 2009. Visual intonation in the prosody of a sign
+
+Dachkovsky, Svetlana, Healy, Christina, and Sandler, Wendy.  2013.  Visual intonation in two sign languages.  \textit{Phonology 30/2}: 211-252.
+
+Darwin Charles. 1871. \textit{The Descent of Man and Selection in Relation to Sex.}  London: John Murray.
+
+Emmorey, Karen. 2013.  The neurobiology of sign language and the mirror system hypothesis. \textit{Language and Cognition 5/2-3}, Kemmerer, David (Ed.).\textit{ }205-210. 
+
+Fitch, W. Tecumseh. 2005.  The evolution of language: A comparative view.  \textit{Biology and Philosophy 20:} 193-230.
+
+Fitch, W. Tecumseh. 2010. \textit{The evolution of language}. Cambridge: Cambridge University Press. 
+
+Gil, \citet{David2009} How much grammar does it take to sail a boat? In Sampson, Geoffrey, Gil, David, and Trudgill, Peter (Eds.),\textit{ Language Complexity as an Evolving Variable}. Oxford: Oxford University Press. 19-33.
+
+Givón, Talmy, 1979. \textit{From discourse to syntax: grammar as a processing strategy}. In: Givón, Talmy (Ed.), \textit{Discourse and Syntax }(Syntax and Semantics, vol. 12), New York: Academic Press. 81–111.
+
+Hauser, Marc, Chomsky, Noam, and Fitch, W. Tecumseh. 2002.  The faculty of language: What is it, who has it, and how did it evolve?  \textit{Science 298:}1569-1579.
+
+Hauser, Marc, Yang, Charles, Berwick, Robert, Tattersall, Ian, Ryan, Michael, Watumull, Jeffrey, Chomsky, Noam, and Lewontin, Richard. 2014.  The mystery of language evolution.  \textit{Frontiers in Psychology, Language Sciences 5, Article 401:} 1-12.
+
+Hermann, Annika and Steinbach, Markus (Eds). 2011.  Nonmanuals in sign language, special issue of \textit{Sign Language and Linguistics:14:1.}
+
+Hockett, Charles. 1960.  The origin of speech.  \textit{Scientific American 203: }89-96.
+
+Jackendoff, Ray and Wittenberg, Eva. 2014.  What you can say without syntax: A hierarchy of grammatical complexity. In Newmeyer, Fritz and Preston, Lauren (Eds.), \textit{Measuring Grammatical Complexity}, Oxford University Press.
+
+Jackendoff, Ray. 1999. Possible stages in the evolution of the language capacity. \textit{Trends in Cognitive Science 3:}272–279.
+
+Juscyk, Peter. 1997. \textit{The Discovery of Spoken Language.} Cambridge MA: MIT Press.
+
+Kemmerer, David (Ed.). 2013. \textit{Language and Cognition 5/2-3, }Special issue in response to \citet{Arbib2012}.
+
+Klein, Wolfgang, and Perdue, \citet{Clive1997}. The basic variety (or: couldn't natural languages be much simpler?).\textit{ Second Language Research,13}, 301-347.
+
+language.  \textit{Language and Speech 52 (2/3)}. 287-314.
+
+Lepic, Ryan, Börstell, Carl, Belsitzman, Gal, and Sandler, Wendy. 2016, in press.  Taking meaning in hand: Iconic motivation in two-handed signs.  \textit{Sign Language and Linguistics.}
+
+Liddell, Scott K., and Robert E. Johnson. 1989. American Sign Language: The phonological base. \textit{Sign Language Studies 64:} 195–277
+
+MacNeilage P.F. 1998. The frame/content theory of evolution of speech production. \textit{Behavior and Brain Science 21}: 499 – 546.
+
+Mandel, Mark. 1981.  \textit{Phonotactics and Morphophonology in ASL.  }PhD dissertation, University of California, Berkeley.
+
+Mehler, Jacques and Dupoux, Emmanuel. 1994.  \textit{What Infants Know. }Cambridge, MA: Blackwell.
+
+Meir, Irit, Aronoff, Mark, Sandler, Wendy \& Padden, Carol. 2010.  Sign languages and compounding.  In: Scalise, Servio and Vogel, Irene (Eds.), \textit{Compounding}. John Benjamins, 301-322.
+
+Meir, Irit, Israel, Assaf, Sandler, Wendy, Padden, Carol, and Aronoff, Mark. 2012.  The influence of community on language structure: Evidence from two young sign languages.  \textit{Linguistic Variation 12:2, }247-291.
+
+Meir, Irit, Aronoff, Mark, Sandler, Börstell, Carl, Hwang, So-One, Ikbasaran, Deniz, Kastner, Itamar, Lepic, Ryan, Lifshitz Ben Basat, Adi, Padden, Carol, and Sandler, Wendy. submitted.  The effect of being human and the basis of grammatical word order: Insights from novel communication systems and young sign languages.
+
+Nespor, Marina and Sandler, Wendy. 1998.  Prosodic phonology in Israeli Sign Language.  \textit{Language and Speech 52/2-3:}143-176.
+
+Nespor, Marina and Vogel, Irene. 1986.  \textit{Prosodic Phonology.} Dordrecht: Foris.
+
+Nespor, Marine, M.-T. Guasti, Maria-Theresa, and Christophe, Anne. 1996. Selecting word order: the Rhythmic Activation Principle. in: U. Kleinhenz, Ursula (Ed.), \textit{Interfaces in Phonology} . Berlin:Akademie Verlag. 1-26.
+
+Newmeyer, Fritz J. (2002) Uniformitarian Assumptions and Language Evolution Research. In Wray, Alison (Ed.), \textit{The Transition to Language}. Oxford: Oxford University Press. 359-375
+
+Padden, Carol. 1988 [1983]. \textit{Interaction of Morphology and Syntax in American Sign Language}: Outstanding Dissertations in Linguistics. New York: Garland. (Originally distributed as: PhD dissertation, University of California, San Diego.)
+
+Padden, Carol, Meir, Irit, Sandler, Wendy, Aronoff, Mark. 2009. Against all expectations: encoding subjects and objects in a new language. In: Gerdts, Donna B., Moore, John C., and Polinsky, Maria (Eds.), \textit{Hypothesis A/Hypothesis B: Linguistic Explorations in Honor of David M. Perlmutter. }MIT Press, Cambridge, MA. 383–400. 
+
+Padden, Carol, Meir, Irit, Aronoff, Mark and Sandler, Wendy. 2010. The grammar of space in two new sign languages. In Brentari, Diane (Ed). 573-595
+
+Padden, Carol, Meir, Irit, Hwang, So-One, Lepic, Ryan, and Seegers, Sharon. 2013.  Patterned iconicity in sign language lexicons. Special issue of \textit{Gesture: Where do Nouns Come From? }Haviland, John (Ed.).\textit{ }287-308.
+
+Pfau, Roland and Quer, Josep.  2011. Nonmanuals: Their grammatical and prosodic roles.  In: Brentari, Diane (Ed.).  381-402.
+
+Pfau, Roland, Steinbach, Markus, and Woll, Bencie (Eds.). 2012. \textit{Sign Language: An International Handbook.} Berlin: De Gruyter Mouton.
+
+Pinker, Steven, and Jackendoff , Ray. 2005. The faculty of language: What’s special about it? \textit{Cognition 95}: 201-236.
+
+Sandler, Wendy. 1989.  \textit{Phonological Representation of the Sign: Linearity and Nonlinearity in American Sign Language.  }Dordrecht: Foris.
+
+Sandler, Wendy. 1999.  Cliticization and prosodic words in sign language.  In: Hall, Tracy and Kleinhenz, Ursula (Eds.), \textit{Studies on the Phonological Word.} Amsterdam: Benjamins. 223-255. 
+
+Sandler , Wendy. 2012a. Dedicated gestures and the emergence of sign language. \textit{Gesture 12/3. }265-307.
+
+Sandler, Wendy. 2012b.  Visual prosody. In R. Pfau, M. Steinbach, and B. Woll (Eds.).  55-76.
+
+Sandler, Wendy. 2013. Vive la Différence: Sign language and spoken language in language evolution. \textit{Language and Cognition 5/2-3}, Kemmerer, David (Ed.).\textit{ }189-203.
+
+Sandler, Wendy.  2014.  The emergence of phonetic and phonological features in sign language.  In: \textit{Nordlyd~41.1}, special~issue on Features, Krämer, Martin, Ronai, Sandra-Iulia and Svenonius, Peter~ (Eds.). 183-212.
+
+Sandler, Wendy and Lillo-Martin,Diane. 2006.  \textit{Sign Language and Linguistic Universals.  }Cambridge UK: Cambridge University Press.
+
+Sandler, Wendy, Aronoff, Mark, Meir, Irit, and Padden, Carol. 2011a.  The gradual emergence of phonological form in a new language.  \textit{Natural Language and Linguistic Theory 29:}503-543.
+
+Sandler, Wendy, Aronoff, Mark, Padden, Carol, and Meir, Irit. 2014.  \textit{Language emergence} \textit{Al-Sayyid Bedouin Sign Language}. In: Sindell, Jack, Kockelman, Paul and Enfield, Nick (Eds.).  \textit{The Cambridge Handbook of Linguistic Anthropology}, Cambridge UK: Cambridge University Press.  246-278.
+
+Sandler, Wendy, Meir, Irit, Dachkovsky, Svetlana, Padden, Carol, and Aronoff, Mark.  2011b. The emergence of complexity in prosody and syntax.  \textit{Lingua 121:} 2014-2033.
+
+Sandler, Wendy, Meir, Irit, Padden, Carol, and Aronoff, Mark. 2005.\textit{ }The emergence of grammar in a new sign language. \textit{Proceedings of the National Academy of Sciences, 102/7:} 2661-2665. 
+
+Selkirk, Elisabeth. 1984. \textit{Phonology and Syntax: The Relation between Sound and Structure. }Cambridge, MA: MIT Press.
+
+Stokoe, William C. 1960. \textit{Sign Language Structure: An outline of the visual communications systems of the American deaf. }In Studies in Linguistics: Occasional Papers 8. Buffalo: University of Buffalo.
+
+Wilbur, Ronnie B. 2000. Phonological and prosodic layering of nonmanuals in American Sign Language. In Emmorey, Karen and Lane, Harlan (Eds.), \textit{The Signs of Language Revisited: An Anthology to Honor Ursula Bellugi and Ed Klima.}  Mahwah, NJ: Lawrence Erlbaum Associates. 190-214.
+
+Wray, Alison \& Grace, George W.. 2007. The consequences of talking to strangers: Evolutionary corollaries of socio-cultural influences on linguistic form. \textit{Lingua 117}, 543–578.
+
+[Beck, D.  2002.  The Typology of Parts of Speech Systems: The Markedness of Adjectives.  New   York: Routledge.]{Beck, D.  2002.  \textit{The Typology of Parts of Speech Systems: The Markedness of Adjectives.  }New   York: Routledge.}
+
+[Davis, H. and Matthewson, L.  1999.  On the functional determination of lexical categories.]{Davis, H. and Matthewson, L.  1999.  On the functional determination of lexical categories.} [  Révue québécoise de linguistique 27:27{}-67.]{  \textit{Révue québécoise de linguistique }27:27-67.}
+
+[Demirdache, H. and Matthewson, L.  1994.  On the universality of syntactic categories.]{Demirdache, H. and Matthewson, L.  1994.  On the universality of syntactic categories.} [             Proceedings of the Northeastern Linguistics Society 16:79{}-93.]{             \textit{Proceedings of the Northeastern Linguistics Society }16:79-93.}
+
+[Evans, N. and Osada, T.  2005.  Mundari: the myth of a language without word classes.]{Evans, N. and Osada, T.  2005.  Mundari: the myth of a language without word classes.} [  Linguistic Typology 9:351{}-390.]{  \textit{Linguistic Typology }9:351-390.}
+
+Gentner, D and Boroditsky, L.  2001.  Individuation, relativity and early word learning.  In   Bowerman, M and Levinson, S, eds., \textit{Language Acquisition and Conceptual   Development, }  215-256.  Cambridge:  Cambridge University Press.
+
+Foley, W.  2008.  The place of Philippine languages in a typology of voice systems.  In   Austin, P. and Musgrave, S., eds., \textit{Voice and Grammatical Relations in Austronesian} \textit{  Languages, }22-44.  Stanford: CSLI Publications.
+
+Jelinek, E. and Demers, R.  1994.  Predicates and pronominal arguments in Straits Salish.  \textit{Language }70:697-736.
+
+Kinkade, D.  1983.  Salish evidence against the universality of ‘noun’ and ‘verb’.  \textit{Lingua   }60:25-40.
+
+Kuipers,A.  1968.  The categories verb-noun and transitive-intransitive  in English and   Squamish.  \textit{Lingua }21:610-626.
+
+Kayser, M. Brauer, S. Cordaux, R., Casto, A., Lao, O. Zhivotovsky, L. Moyse-Faurie, C.,   Rutledge, R., Schievenhoevel, W., Gil, D., Lin, A. Underhill, P., Oefner, P., Trent, R.   and Stoneking, M.  2006.  eds., Asian and Melanesian origins of Polynesians:   mtDNA and   Y chromosome gradients across the Pacific.   \textit{Molecular Biology and   Evolution }23   (11):2234-2244.
+
+Pawley, A. 1994.  Kalam exponents of lexical and semantic primitives.  In Goddard, C. and  Wierzbicka, A. eds., \textit{Semantic and Lexical Universals : Theory and Empirical Finding,} 410-439.  Amsterdam:  John Benjamins.
+
+Reimer, N. 2010.  \textit{Introducing Semantics.  }Cambridge: Cambridge University Press.
+
+Schachter, P. and Otanes, F. 1972.  \textit{Tagalog Reference Grammar.} Berkeley: University of California Press.
+
+van Eijk, J. and Hess, T.  1986.  Noun and verb in Salishan.  \textit{Lingua }69:319-331.

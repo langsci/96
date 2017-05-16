@@ -1,0 +1,92 @@
+%\documentclass[a4paper,12pt]{article}
+%
+%\usepackage[cmyk]{xcolor}
+%\definecolor{blasi-dark}{cmyk}{0.56,0,0.68,0.60} 
+%\definecolor{blasi-medium}{cmyk}{0.22,0,0.28,0.37} 
+%\definecolor{blasi-light}{cmyk}{0.08,0,0.10,0.19} 
+%\definecolor{blasi-fresh}{cmyk}{0.46,0,0.56,0.17} 
+%
+%
+%\usepackage{tikz}
+%\usetikzlibrary{positioning}
+%
+%\pagestyle{empty}
+%
+%\begin{document}
+	
+\begin{tikzpicture}[baseline]
+
+\node at (0,0) (uni_text) [fill=gray!30, inner sep=6pt, rounded corners] {\sffamily \LARGE Unidirectional implicational};
+
+% Group 1
+\coordinate [below=3\baselineskip of uni_text.south] (uni_ori);
+\node [below left=of uni_ori, anchor=base, fill=blasi-dark, rounded corners, minimum size=2cm, draw=blasi-fresh] (box1) {};
+\node [right=.5em of box1, fill=blasi-medium, rounded corners, minimum size=2cm, draw=blasi-fresh] (box2) {};
+\node [below=.5em of box1, fill=white, rounded corners, minimum size=2cm, draw=blasi-fresh] (box3) {};
+\node [below=.5em of box2, fill=blasi-light, rounded corners, minimum size=2cm, draw=blasi-fresh] (box4) {};
+
+% Text
+\node [above=.1em of box1] (box1_c) {\Huge\sffamily C};
+\node [above=.1em of box2] (box2_c) {\Huge\sffamily $\sim$C};
+
+\node [left=.1em of box1] (box1_e) {\Huge\sffamily E};
+\node [left=.1em of box3.west] (box3_e) {\Huge\sffamily $\sim$E};
+
+%Group 2
+
+\node [below=3\baselineskip of box3, fill=blasi-dark, rounded corners, minimum size=2cm, draw=blasi-fresh] (box21) {};
+\node [right=.5em of box21, fill=blasi-light, rounded corners, minimum size=2cm, draw=blasi-fresh] (box22) {};
+\node [below=.5em of box21, fill=white, rounded corners, minimum size=2cm, draw=blasi-fresh] (box23) {};
+\node [below=.5em of box22, fill=blasi-medium, rounded corners, minimum size=2cm, draw=blasi-fresh] (box24) {};
+
+% Text
+\node [above=.1em of box21] (box21_c) {\Huge\sffamily C};
+\node [above=.1em of box22] (box22_c) {\Huge\sffamily $\sim$C};
+
+\node [left=.1em of box21] (box21_e) {\Huge\sffamily E};
+\node [left=.1em of box23.west] (box23_e) {\Huge\sffamily $\sim$E};
+
+%Fraction
+
+\node[below=\baselineskip of box23.south east] (frac1) {\huge $\frac{P(E|C) - O(E|\sim C)}{P(\sim E|\sim C)}$};
+
+% Second column
+
+\node [right=3.5em of uni_text] (uni_text2) [fill=gray!30, inner sep=6pt, rounded corners] {\sffamily \LARGE Bidirectional implicational};
+
+% Group 3
+
+\coordinate [below=3\baselineskip of uni_text2.south] (bi_ori);
+\node [below left= of bi_ori, anchor=base, fill=blasi-dark, rounded corners, minimum size=2cm, draw=blasi-fresh] (box31) {};
+\node [right=.5em of box31, fill=white, rounded corners, minimum size=2cm, draw=blasi-fresh] (box32) {};
+\node [below=.5em of box31, fill=white, rounded corners, minimum size=2cm, draw=blasi-fresh] (box33) {};
+\node [below=.5em of box32, fill=blasi-medium, rounded corners, minimum size=2cm, draw=blasi-fresh] (box34) {};
+
+% Text
+\node [above=.1em of box31] (box1_c) {\Huge\sffamily C};
+\node [above=.1em of box32] (box2_c) {\Huge\sffamily $\sim$C};
+
+\node [left=.1em of box31] (box1_e) {\Huge\sffamily E};
+\node [left=.1em of box33.west] (box3_e) {\Huge\sffamily $\sim$E};
+
+%Group 4
+
+\node [below=3\baselineskip of box33, fill=blasi-medium, rounded corners, minimum size=2cm, draw=blasi-fresh] (box41) {};
+\node [right=.5em of box41, fill=white, rounded corners, minimum size=2cm, draw=blasi-fresh] (box42) {};
+\node [below=.5em of box41, fill=white, rounded corners, minimum size=2cm, draw=blasi-fresh] (box43) {};
+\node [below=.5em of box42, fill=blasi-dark, rounded corners, minimum size=2cm, draw=blasi-fresh] (box44) {};
+
+% Text
+\node [above=.1em of box41] (box41_c) {\Huge\sffamily C};
+\node [above=.1em of box42] (box42_c) {\Huge\sffamily $\sim$C};
+
+\node [left=.1em of box41] (box41_e) {\Huge\sffamily E};
+\node [left=.1em of box43.west] (box43_e) {\Huge\sffamily $\sim$E};
+
+%Fraction
+
+\node[below=\baselineskip of box43.south east] (frac1) {\LARGE $P(E|C) - P(E|{\sim}C)$};
+
+\end{tikzpicture}
+
+%\end{document}

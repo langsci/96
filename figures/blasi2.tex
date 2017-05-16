@@ -1,0 +1,49 @@
+%\documentclass[a4paper,12pt]{article}
+%
+%\usepackage{color}
+%
+%\usepackage[cmyk]{xcolor}
+%\definecolor{blasi-gold}{cmyk}{0,0.42,0.76,0.18} 
+%\definecolor{blasi-turq}{cmyk}{0.39,0,0.09,0.17} 
+%\definecolor{blasi-green}{cmyk}{0.43,0,0.64,0.08} 
+%
+%\usepackage{tikz}
+%\usetikzlibrary{positioning}
+%
+%\pagestyle{empty}
+%
+%\begin{document}
+%	
+\begin{tikzpicture}[baseline]
+\tikzset{every node/.style={text=white}}
+
+\node at (0,0) (a_z) [fill=blasi-gold, circle, radius=1cm] {\sffamily\bfseries Z};
+\node (a_x) [above left=1em and 1em  of a_z, fill=blasi-green, circle, radius=1cm] {\sffamily\bfseries X};
+\node (a_y) [above right=1em and 1em  of a_z, fill=blasi-turq, circle, radius=1cm] {\sffamily\bfseries Y};
+\node [below=\baselineskip of a_z, text=black] {\sffamily (a)};
+
+\draw [very thick,->] (a_x) -- (a_z); \draw [very thick,->] (a_z) -- (a_y);
+
+\node at (3,0) (b_z) [fill=blasi-gold, circle, radius=1cm] {\sffamily\bfseries Z};
+\node (b_x) [above left=1em and 1em  of b_z, fill=blasi-green, circle, radius=1cm] {\sffamily\bfseries X};
+\node (b_y) [above right=1em and 1em  of b_z, fill=blasi-turq, circle, radius=1cm] {\sffamily\bfseries Y};
+\node [below=\baselineskip of b_z, text=black] {\sffamily (b)};
+
+\draw [very thick,<-] (b_x) -- (b_z); \draw [very thick,<-] (b_z) -- (b_y);
+
+\node at (0,-3) (c_z) [fill=blasi-gold, circle, radius=1cm] {\sffamily\bfseries Z};
+\node (c_x) [above left=1em and 1em  of c_z, fill=blasi-green, circle, radius=1cm] {\sffamily\bfseries X};
+\node (c_y) [above right=1em and 1em  of c_z, fill=blasi-turq, circle, radius=1cm] {\sffamily\bfseries Y};
+\node [below=\baselineskip of c_z, text=black] {\sffamily (c)};
+
+\draw [very thick,->] (c_x) -- (c_z); \draw [very thick,<-] (c_z) -- (c_y);
+
+\node at (3,-3) (d_z) [fill=blasi-gold, circle, radius=1cm] {\sffamily\bfseries Z};
+\node (d_x) [above left=1em and 1em  of d_z, fill=blasi-green, circle, radius=1cm] {\sffamily\bfseries X};
+\node (d_y) [above right=1em and 1em  of d_z, fill=blasi-turq, circle, radius=1cm] {\sffamily\bfseries Y};
+\node [below=\baselineskip of d_z, text=black] {\sffamily (d)};
+
+\draw [very thick,<-] (d_x) -- (d_z); \draw [very thick,->] (d_z) -- (d_y);
+\end{tikzpicture}
+
+%\end{document}

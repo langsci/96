@@ -1,0 +1,29 @@
+\documentclass[border=5pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+\begin{document}
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\tikzstyle{process} = [rectangle, minimum width=4cm, minimum height=2cm, text centered, draw=black, fill=black!5]
+
+\begin{tikzpicture}
+
+\node (start) [process,align=center] {\Large Individual\\ genotype};
+\node (diff) [below right=of start,process,align=center] {\Large Individual\\ differences in\\ VT anatomy};
+\node (biases) [below right=of diff,process,align=center] {\Large Biases in\\ speech\\ production}; 
+\node (inter) [below left=of biases,process,align=center] {\Large Inter-population\\ differences\\ in biases};
+\node (linguistic) [below left=of inter,process,align=center] {\Large Linguistic\\ patterns};
+
+\draw [arrow,opacity=0.8] (start) |- (diff) node[above,pos=0.75] {\large development} node[below,pos=0.75] {\large maintenance};
+\draw [arrow,opacity=0.8] (diff) |- (biases) node[above,pos=0.75] {\large biomechanics} node[below,pos=0.75] {\large accoustics};
+\draw [arrow,opacity=0.8] (biases) |- (inter) node[above,pos=0.75] {\large cultural} node[below,pos=0.75] {\large transmission};
+\draw [arrow,opacity=0.8] (inter) |- (linguistic) node[above,pos=0.75] {\large language use} node[below,pos=0.75] {\large acquisition};
+\draw [arrow,opacity=0.8] (linguistic) |- (inter) node[above,pos=0.75] {\large language use} node[below,pos=0.75] {\large acquisition};
+\draw [arrow,opacity=0.5] (linguistic.130) -- (start.230) node[above,pos=0.5,rotate=90] {\large selective pressures} node[below,pos=0.5,rotate=90] {\large Balwin effect?};
+
+
+
+
+\end{tikzpicture}
+
+\end{document}
